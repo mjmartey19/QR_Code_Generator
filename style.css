@@ -112,7 +112,7 @@ header p{
 }
 
 
-@media (max-width: 430px){
+@media (max-width: 687px){
   .wrapper{
     height: 255px;
     padding: 16px 20px;
